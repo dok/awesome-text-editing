@@ -16,6 +16,11 @@
 * [Froala](https://www.froala.com/wysiwyg-editor)
 * [Redactor](http://imperavi.com/redactor/)
 * [Ritzy](https://github.com/ritzyed/ritzy) 
+* [Aloha Editor](http://www.alohaeditor.org/Content.Node/index.html) - Open Source browser based html5 enabled rich text editor.
+* [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup.
+* [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component.
+* [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component.
+* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor.
 
 ## Code editors
 
