@@ -12,6 +12,7 @@
 * [wysihtml](http://wysihtml.com/) 
 * [Etherpad](http://etherpad.org/) 
 * [TinyMCE](http://www.tinymce.com/)
+* [Medium.js](http://jakiestfu.github.io/Medium.js/docs/) - Warning: Not actually used by [Medium](https://medium.com/)
 * [Textbox.IO](https://textbox.io/) - From the makers of TinyMCE
 * [Froala](https://www.froala.com/wysiwyg-editor)
 * [Redactor](http://imperavi.com/redactor/)
@@ -22,8 +23,14 @@
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component.
 * [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor.
 * [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
+* [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
+* [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
+* [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor
+
 
 ## Code editors
 
 * [CodeMirror](https://codemirror.net/)
 * [Ace](https://ace.c9.io/#nav=about)
+* [EditArea](http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html)
+* [Behave.js](http://jakiestfu.github.io/Behave.js/) - lightweight library for adding IDE style behaviors to plain text areas,
