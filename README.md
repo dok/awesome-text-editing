@@ -21,6 +21,7 @@
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component.
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component.
 * [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor.
+* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 
 ## Code editors
 
