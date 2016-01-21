@@ -39,3 +39,9 @@
 * [Ace](https://ace.c9.io/#nav=about)
 * [EditArea](http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html)
 * [Behave.js](http://jakiestfu.github.io/Behave.js/) - lightweight library for adding IDE style behaviors to plain text areas,
+
+
+## Markdown editors
+
+* [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
+* [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
