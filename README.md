@@ -26,6 +26,11 @@
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
 * [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor
+* [Trumbowyg](http://alex-d.github.io/Trumbowyg/) - light, translatable and customisable jQuery plugin
+* [NicEdit](http://nicedit.com/) - Abandoned in 2012
+* [jWYSIWYG](https://github.com/akzhan/jwysiwyg) - WYSIWYG jQuery Plugin 
+* [Alloy](http://alloyeditor.com/) - a modern WYSIWYG editor built on top of CKEDITOR
+
 
 
 ## Code editors
