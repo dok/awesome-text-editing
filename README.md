@@ -12,7 +12,7 @@ A collection of text editing resources for the web.
 * [Summernote](http://summernote.org/) - Bootstrap dependent rich-text editor
 * [wysihtml](http://wysihtml.com/) 
 * [Etherpad](http://etherpad.org/) 
-* [TinyMCE](http://www.tinymce.com/)
+* [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 * [Medium.js](http://jakiestfu.github.io/Medium.js/docs/) - Warning: Not actually used by [Medium](https://medium.com/)
 * [Textbox.IO](https://textbox.io/) - From the makers of TinyMCE
 * [Froala](https://www.froala.com/wysiwyg-editor)
