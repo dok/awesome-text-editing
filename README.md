@@ -36,8 +36,8 @@ A collection of text editing resources for the web.
 
 ## Code editors
 
-* [CodeMirror](https://codemirror.net/)
-* [Ace](https://ace.c9.io/#nav=about)
+* [CodeMirror](https://codemirror.net/) - CodeMirror is a versatile text editor implemented in JavaScript for the browser.
+* [Ace](https://ace.c9.io/#nav=about) - Ace is an embeddable code editor written in JavaScript.
 * [EditArea](http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html)
 * [Behave.js](http://jakiestfu.github.io/Behave.js/) - lightweight library for adding IDE style behaviors to plain text areas,
 
