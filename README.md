@@ -5,19 +5,19 @@ A collection of text editing resources for the web.
 
 * [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing.
-* [Squire](https://github.com/neilj/Squire) - 
+* [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror.
 * [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team.
-* [Quill](http://quilljs.com/)
+* [Quill](http://quilljs.com/) - Quill is a free, open source WYSIWYG editor built for the modern web.
 * [Summernote](http://summernote.org/) - Bootstrap dependent rich-text editor
-* [wysihtml](http://wysihtml.com/) 
-* [Etherpad](http://etherpad.org/) 
+* [wysihtml](http://wysihtml.com/) - Made by Voog
+* [Etherpad](http://etherpad.org/) - Open Source online editor providing collaborative editing in really real-time.
 * [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 * [Medium.js](http://jakiestfu.github.io/Medium.js/docs/) - Warning: Not actually used by [Medium](https://medium.com/)
 * [Textbox.IO](https://textbox.io/) - From the makers of TinyMCE
-* [Froala](https://www.froala.com/wysiwyg-editor)
-* [Redactor](http://imperavi.com/redactor/)
-* [Ritzy](https://github.com/ritzyed/ritzy) 
+* [Froala](https://www.froala.com/wysiwyg-editor) - A simple to use rich text editor, with mobile support, lots of examples, high performance and inline editing.
+* [Redactor](http://imperavi.com/redactor/) - Advanced, clean and smooth, Redactor Rich Text Editor offers an excellent immersive user experience.
+* [Ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor.
 * [Aloha Editor](http://www.alohaeditor.org/Content.Node/index.html) - Open Source browser based html5 enabled rich text editor.
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup.
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component.
