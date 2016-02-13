@@ -66,3 +66,8 @@ Editor should:
     * AMD & Common.js
 * Should have an organization backing the service and have a potential paid support plan
 * Should copy & paste from Microsoft word
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
