@@ -31,6 +31,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [NicEdit](http://nicedit.com/) - Abandoned in 2012
 * [jWYSIWYG](https://github.com/akzhan/jwysiwyg) - WYSIWYG jQuery Plugin 
 * [Alloy](http://alloyeditor.com/) - a modern WYSIWYG editor built on top of CKEDITOR
+* [Draft.js](http://facebook.github.io/draft-js/) - a rich text editor framework for React
 
 ## Code editors
 
