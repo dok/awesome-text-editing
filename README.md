@@ -32,6 +32,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [jWYSIWYG](https://github.com/jwysiwyg/jwysiwyg) - WYSIWYG jQuery Plugin 
 * [Alloy](http://alloyeditor.com/) - a modern WYSIWYG editor built on top of CKEDITOR
 * [Draft.js](http://facebook.github.io/draft-js/) - a rich text editor framework for React
+* [MediumEditor](https://github.com/yabwe/medium-editor) - A clone of medium.com inline editor toolbar. Uses contenteditable API to implement a rich text solution.
 
 ## Code editors
 
