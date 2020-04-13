@@ -36,6 +36,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Code editors
 
+* [CodeJar](https://medv.io/codejar/) - CodeJar is a micro code editor for the browser
 * [CodeMirror](https://codemirror.net/) - CodeMirror is a versatile text editor implemented in JavaScript for the browser
 * [Ace](https://ace.c9.io/#nav=about) - Ace is an embeddable code editor written in JavaScript
 * [EditArea](http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html)
