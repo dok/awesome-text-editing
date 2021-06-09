@@ -48,6 +48,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 * [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 * [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
+* [milkdown](https://saul-mirone.github.io/milkdown/) - Plugin driven WYSIWYG markdown editor.
 
 ## Heuristic for contenteditable rich-text editors
 
