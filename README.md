@@ -43,7 +43,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Ace](https://ace.c9.io/#nav=about) - Ace is an embeddable code editor written in JavaScript
 * [EditArea](http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html)
 * [Behave.js](http://jakiestfu.github.io/Behave.js/) - lightweight library for adding IDE style behaviors to plain text areas
-
+* [TextForge](https://text-forge.github.io/docs) - A lighweight, open source, and highly modular code editor with official support for web related languages.
 
 ## Markdown editors
 
