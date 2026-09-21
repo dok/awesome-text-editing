@@ -3,12 +3,11 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Rich-text editors using contenteditable
 * [Slate](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable
-* [TipTap](https://github.com/scrumpy/tiptap) - Rich text editor for Vue.js
+* [TipTap](https://github.com/ueberdosis/tiptap) - Rich text editor for Vue.js
 * [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
-* [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor
+* [Squire](https://github.com/fastmail/Squire) - HTML5 rich text editor
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
-* [Scribe](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team
 * [Quill](http://quilljs.com/) - Quill is a free, open source WYSIWYG editor built for the modern web
 * [Summernote](http://summernote.org/) - Bootstrap dependent rich-text editor
 * [wysihtml](http://wysihtml.com/) - Made by Voog
@@ -23,14 +22,10 @@ A curated collection of text editing libraries, services, and resources for the 
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component
-* [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor
-* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
 * [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor
 * [Trumbowyg](http://alex-d.github.io/Trumbowyg/) - light, translatable and customisable jQuery plugin
-* [NicEdit](http://nicedit.com/) - Abandoned in 2012
-* [jWYSIWYG](https://github.com/jwysiwyg/jwysiwyg) - WYSIWYG jQuery Plugin 
 * [Alloy](http://alloyeditor.com/) - a modern WYSIWYG editor built on top of CKEDITOR
 * [Draft.js](http://facebook.github.io/draft-js/) - a rich text editor framework for React
 * [MediumEditor](https://github.com/yabwe/medium-editor) - A clone of medium.com inline editor toolbar. Uses contenteditable API to implement a rich text solution.
