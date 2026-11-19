@@ -43,6 +43,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Ace](https://ace.c9.io/#nav=about) - Ace is an embeddable code editor written in JavaScript
 * [EditArea](http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html)
 * [Behave.js](http://jakiestfu.github.io/Behave.js/) - lightweight library for adding IDE style behaviors to plain text areas
+* [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and viewer with a collapsible tree for editing and inspecting JSON in the browser
 
 
 ## Markdown editors
